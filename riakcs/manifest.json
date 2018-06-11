@@ -1,6 +1,6 @@
 {
   "maintainer": "help@datadoghq.com",
-  "manifest_version": ".0.",
+  "manifest_version": ".0",
   "name": "riakcs",
   "short_description": "Track the rate and mean latency of GETs, PUTs, DELETEs, and other operations.",
   "support": "core",
